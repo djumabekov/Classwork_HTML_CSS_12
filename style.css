@@ -1,0 +1,18 @@
+.container{
+    height: 500px;
+    display: flex;
+    /* justify-content: center;
+    align-items: end; */
+    background-color: rebeccapurple;
+    /* flex-wrap: wrap-reverse; */
+    /* flex-direction: column-reverse; */
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+
+.item{
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+}
